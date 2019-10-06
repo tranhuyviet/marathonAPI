@@ -1,152 +1,22 @@
 [
   {
-    "id": 0,
-    "status": "Not-accepted",
-    "published_at": "2019-09-20T19:31:32",
-    "deliver_before": "2019-11-20T15:38:19",
-    "deliver_to": "Finnoontie 52 A1, 02230, Espoo",
-    "customer": "Bang Nguyen Chim",
-    "info": "Vietnamese speaking customer",
-    "image_url": "https://images.unsplash.com/photo-1524769490-6d12a683d9ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1319&q=80"
-  },
-  {
     "id": 1,
-    "status": "Not-accepted",
-    "published_at": "2019-07-30T18:09:16",
-    "deliver_before": "2019-10-20T08:52:42",
-    "deliver_to": "82 Albany Rd. Milton, MA 02186",
-    "customer": "Ariana Grande hehe",
-    "info": "FRAGILE! Please handle with care",
+    "name": "Marathon Helsinki-Porvoo",
+    "startDate": "2019-07-30T18:09:16",
+    "description": "Start from Kamppi Helsinki",
+    "amount": 1250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Mannerheiminkatu 18, 06100 Porvoo",
     "image_url": "https://images.unsplash.com/photo-1541544181051-e46607bc22a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
   },
   {
     "id": 2,
-    "status": "Accepted",
-    "published_at": "2019-09-29T05:18:09",
-    "deliver_before": "2019-11-14T16:30:39",
-    "deliver_to": "95 Sherwood Ave. North Augusta, SC 29841",
-    "customer": "Shawn Mendes",
-    "info": "Must be delivered on time",
-    "image_url": "https://images.unsplash.com/photo-1528029320621-f02197f47774?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
-  },
-  {
-    "id": 3,
-    "status": "Not-accepted",
-    "published_at": "2019-09-15T17:09:21",
-    "deliver_before": "2019-11-01T06:59:18",
-    "deliver_to": "93 6th Rd. Butte, MT 59701",
-    "customer": "Ed Sheeran",
-    "info": "Liquid bottles inside, please be careful",
-    "image_url": "https://images.unsplash.com/photo-1524769490-6d12a683d9ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1319&q=80"
-  },
-  {
-    "id": 4,
-    "status": "Not-accepted",
-    "published_at": "2019-07-15T16:52:56",
-    "deliver_before": "2019-12-05T09:32:23",
-    "deliver_to": "7 St Paul Ave. Hicksville, NY 11801",
-    "customer": "Camila Cabello",
-    "info": "Easy to be broken product",
+    "name": "Marathon Helsinki-Espoo",
+    "startDate": "2019-09-30T18:09:16",
+    "description": "Start from Kamppi Helsinki",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
     "image_url": "https://images.unsplash.com/photo-1541544181051-e46607bc22a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
-  },
-  {
-    "id": 5,
-    "status": "Not-accepted",
-    "published_at": "2019-08-24T01:52:59",
-    "deliver_before": "2019-11-28T15:15:52",
-    "deliver_to": "653 Snake Hill Court Irmo, SC 29063",
-    "customer": "John Legend",
-    "info": "Call this number when deliver: +358493857743",
-    "image_url": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2002&q=80"
-  },
-  {
-    "id": 6,
-    "status": "Accepted",
-    "published_at": "2019-09-28T20:39:17",
-    "deliver_before": "2019-10-12T12:47:34",
-    "deliver_to": "63 Creek Avenue Webster, NY 14580",
-    "customer": "Demi Lovato",
-    "info": "When deliver, please enter the back entrance",
-    "image_url": "https://images.unsplash.com/photo-1507150615129-3ba0720f488d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-  },
-  {
-    "id": 7,
-    "status": "Not-accepted",
-    "published_at": "2019-09-30T19:31:32",
-    "deliver_before": "2019-10-28T15:38:19",
-    "deliver_to": "546 Logan Ave. Lemont, IL 60439",
-    "customer": "Lewis Capaldi",
-    "info": "FRAGILE ! Please handle with care",
-    "image_url": "https://images.unsplash.com/photo-1524769490-6d12a683d9ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1319&q=80"
-  },
-  {
-    "id": 8,
-    "status": "Not-accepted",
-    "published_at": "2019-08-01T01:51:40",
-    "deliver_before": "2019-12-01T18:15:03",
-    "deliver_to": "82 Albany Rd. Milton, MA 02186",
-    "customer": "Miranda Lambert",
-    "info": "Number to call when deliver: +84234845733",
-    "image_url": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
-  },
-  {
-    "id": 9,
-    "status": "Not-accepted",
-    "published_at": "2019-07-11T09:35:09",
-    "deliver_before": "2019-10-31T11:03:36",
-    "deliver_to": "5 Thomas St. Des Plaines, IL 60016",
-    "customer": "Nick Jonas",
-    "info": "Please don't keep this parcel under 20 degrees temperature",
-    "image_url": "https://images.unsplash.com/photo-1556227996-370b60576b84?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-  },
-  {
-    "id": 10,
-    "status": "Accepted",
-    "published_at": "2019-08-13T23:13:55",
-    "deliver_before": "2019-11-20T02:30:06",
-    "deliver_to": "4 Maple Dr. Cherry Hill, NJ 08003",
-    "customer": "Jennifer Lopez",
-    "info": "Keep product in dry environment",
-    "image_url": "https://images.unsplash.com/photo-1512101147095-d05249ea9a04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1967&q=80"
-  },
-  {
-    "id": 11,
-    "status": "Not-accepted",
-    "published_at": "2019-08-12T08:22:25",
-    "deliver_before": "2019-12-07T08:04:00",
-    "deliver_to": "7811 Plymouth St. Poughkeepsie, NY 12601",
-    "customer": "Avril Lavigne",
-    "info": "Please handle this product carefully",
-    "image_url": "https://images.unsplash.com/photo-1464348123218-0ee63dfd2746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1428&q=80"
-  },
-  {
-    "id": 12,
-    "status": "Not-accepted",
-    "published_at": "2019-09-08T21:16:45",
-    "deliver_before": "2019-12-15T12:00:29",
-    "deliver_to": "30 Lafayette Ave. Chelmsford, MA 01824",
-    "customer": "Ellie Goulding",
-    "info": "Do not throw",
-    "image_url": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2002&q=80"
-  },
-  {
-    "id": 13,
-    "status": "Accepted",
-    "published_at": "2019-09-08T21:41:22",
-    "deliver_before": "2019-10-31T22:37:12",
-    "deliver_to": "63 Cherry St. Fort Dodge, IA 50501",
-    "customer": "Justin Moore",
-    "info": "Deliver to Mrs.Johanna, num +024842504535 ",
-    "image_url": "https://images.unsplash.com/photo-1512101147095-d05249ea9a04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1967&q=80"
-  },
-  {
-    "id": 14,
-    "status": "Not-accepted",
-    "published_at": "2019-07-28T14:42:24",
-    "deliver_before": "2019-10-26T08:51:44",
-    "deliver_to": "558 Hawthorne St. Stow, OH 44224",
-    "customer": "Paul McCartney",
-    "info": "Careful, fragile product inside ",
-    "image_url": "https://images.unsplash.com/photo-1507150615129-3ba0720f488d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
   }
 ]
