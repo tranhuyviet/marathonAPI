@@ -1,5 +1,15 @@
 [
   {
+    "id": 0,
+    "name": "Marathon Espoo-Vantaa",
+    "startDate": "2019-07-30T18:09:16",
+    "description": "Start from Espoo Keskus",
+    "amount": 12250,
+    "startPoint": "Siltakatu 11, 02770 Espoo",
+    "endPoint": "Lummetie 4, 01300 Vantaa",
+    "image_url": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
     "id": 1,
     "name": "Marathon Helsinki-Porvoo",
     "startDate": "2019-07-30T18:09:16",
