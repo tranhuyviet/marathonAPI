@@ -28,15 +28,15 @@
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Siltakatu 11, 02770 Espoo",
     "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 3,
+    "name": "Terwa Run & Marathon",
+    "startDate": "2019-09-30T18:09:16",
+    "description": "The start line is just outside the athletic stadium of Oulu. The course is scenic, flat and fast. Marathon runners run the half marathon course twice. The finish line is located at the stadium.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   }
-    {
-      "id": 3,
-      "name": "Terwa Run & Marathon",
-      "startDate": "2019-09-30T18:09:16",
-      "description": "The start line is just outside the athletic stadium of Oulu. The course is scenic, flat and fast. Marathon runners run the half marathon course twice. The finish line is located at the stadium.",
-      "amount": 2250,
-      "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
-      "endPoint": " Siltakatu 11, 02770 Espoo",
-      "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    }
 ]
