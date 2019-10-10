@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "name": "Marathon Espoo-Vantaa",
+    "name": "Helsinki City Running Day",
     "startDate": "2019-07-30T18:09:16",
-    "description": "Start from Espoo Keskus",
+    "description": "42.2 km | 21.1 km | Double (21.1 km + 42.2 km) | 5 km | Marathon Relay (legs: 15 km, 12 km, 8 km and 7 km) | Children’s Minimarathon 1 km (road)",
     "amount": 12250,
     "startPoint": "Siltakatu 11, 02770 Espoo",
     "endPoint": "Lummetie 4, 01300 Vantaa",
@@ -11,9 +11,9 @@
   },
   {
     "id": 1,
-    "name": "Marathon Helsinki-Porvoo",
+    "name": "Helsinki City Double",
     "startDate": "2019-07-30T18:09:16",
-    "description": "Start from Kamppi Helsinki",
+    "description": "Double the experience in the new event Helsinki City Double! On May 16th, 2020 you can challenge yourself and run both the half marathon and the marathon on the same day.",
     "amount": 1250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Mannerheiminkatu 18, 06100 Porvoo",
@@ -29,4 +29,14 @@
     "endPoint": " Siltakatu 11, 02770 Espoo",
     "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   }
+    {
+      "id": 3,
+      "name": "Terwa Run & Marathon",
+      "startDate": "2019-09-30T18:09:16",
+      "description": "The start line is just outside the athletic stadium of Oulu. The course is scenic, flat and fast. Marathon runners run the half marathon course twice. The finish line is located at the stadium.",
+      "amount": 2250,
+      "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+      "endPoint": " Siltakatu 11, 02770 Espoo",
+      "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
 ]
