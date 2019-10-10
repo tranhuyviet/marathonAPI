@@ -2,8 +2,8 @@
   {
     "id": 0,
     "name": "Helsinki City Running Day",
-    "startDate": "2019-07-30T18:09:16",
-    "description": "42.2 km | 21.1 km | Double (21.1 km + 42.2 km) | 5 km | Marathon Relay (legs: 15 km, 12 km, 8 km and 7 km) | Children’s Minimarathon 1 km (road)",
+    "startDate": "9:00 23/11/2019",
+    "description": "42.2 km | 21.1 km | Double (21.1 km + 42.2 km) | 5 km | Marathon Relay (legs: 15 km, 12 km, 8 km and 7 km) | Children’s Minimarathon 1 km (road). There is something for everyone, those beginning their Triathlon journey, the Duathlon die-hards , pb chasing runners as well as those just looking for a fun and atmospheric event to do with friends and family in a stunning location.",
     "amount": 12250,
     "startPoint": "Siltakatu 11, 02770 Espoo",
     "endPoint": "Lummetie 4, 01300 Vantaa",
@@ -12,8 +12,8 @@
   {
     "id": 1,
     "name": "Helsinki City Double",
-    "startDate": "2019-07-30T18:09:16",
-    "description": "Double the experience in the new event Helsinki City Double! On May 16th, 2020 you can challenge yourself and run both the half marathon and the marathon on the same day.",
+    "startDate": "9:00 24/12/2019",
+    "description": "Double the experience in the new event Helsinki City Double! On May 16th, 2020 you can challenge yourself and run both the half marathon and the marathon on the same day. Two races and one unforgettable finish! The World Heritage Site provides the stunning backdrop to this exciting event that chases through the narrow cobbled streets and along the beautiful River Wear with the imposing 900 year old Cathedral always beckoning.",
     "amount": 1250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Mannerheiminkatu 18, 06100 Porvoo",
@@ -22,8 +22,8 @@
   {
     "id": 2,
     "name": "Marathon Helsinki-Espoo",
-    "startDate": "2019-09-30T18:09:16",
-    "description": "Start from Kamppi Helsinki",
+    "startDate": "9:00 27/12/2019",
+    "description": "The 5k and 10k races start 10 minutes apart, facing each other across the ancient Market square. 5k runners will set off first at 7.15pm, with the 10k runners following 10 minutes later. Whichever you elect for, you will finish at Palace Green in between the Cathedral and the Castle, following in the footsteps of pilgrims who have climbed the hill for almost a thousand years. ",
     "amount": 2250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Siltakatu 11, 02770 Espoo",
@@ -32,11 +32,72 @@
   {
     "id": 3,
     "name": "Terwa Run & Marathon",
-    "startDate": "2019-09-30T18:09:16",
-    "description": "The start line is just outside the athletic stadium of Oulu. The course is scenic, flat and fast. Marathon runners run the half marathon course twice. The finish line is located at the stadium.",
+    "startDate": "9:00 31/12/2019",
+    "description": "The start line is just outside the athletic stadium of Oulu. The course is scenic, flat and fast. Marathon runners run the half marathon course twice. The finish line is located at the stadium. Since naming a primary beneficiary in 1997, the Dallas Marathon has donated more than $4 million to Texas Scottish Rite Hospital for Children.",
     "amount": 2250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Siltakatu 11, 02770 Espoo",
-    "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    "image_url": "https://images.pexels.com/photos/2524739/pexels-photo-2524739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 4,
+    "name": "Terwa Run & Marathon",
+    "startDate": "9:00 05/01/2020",
+    "description": "The Dallas Marathon is a nonprofit organization with a focus on promoting health and physical fitness through running events and related activities. Established in 1971, the history of the organization encompasses tremendous growth and produces what has become Dallas’ largest and Texas’ longest running marathon, the BMW Dallas Marathon, as well as several other weekend event options including a Half Marathon.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2402777/pexels-photo-2402777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 5,
+    "name": "Queen Elizabeth Olympic",
+    "startDate": "9:00 08/01/2020",
+    "description": "We are excited to announce the return of Queen Elizabeth Olympic Park Half Marathon on Sunday 16th February 2020. This ROAD CLOSED half marathon will start and finish at the Queen Elizabeth Olympic Park, home of the 2012 London Olympic!",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2403474/pexels-photo-2403474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 6,
+    "name": "Worcester City Run",
+    "startDate": "9:00 12/01/2020",
+    "description": "The Worcester City Run brings Worcester’s biggest 10K and Half Marathon to this scenic city. Paula Radcliffe, Jo Pavey and Tanni Grey-Thompson all know what a great atmosphere the race creates, join nearly 4000 runners on this autumn weekend perfectly placed to chase a PB or run for a good cause.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2461982/pexels-photo-2461982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 7,
+    "name": "Sunderland City Runs",
+    "startDate": "9:00 13/01/2020",
+    "description": "The Worcester City Run brings Worcester’s biggest 10K and Half Marathon to this scenic city. Paula Radcliffe, Jo Pavey and Tanni Grey-Thompson all know what a great atmosphere the race creates, join nearly 4000 runners on this autumn weekend perfectly placed to chase a PB or run for a good cause.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2683360/pexels-photo-2683360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 8,
+    "name": "Durham City Run",
+    "startDate": "9:00 15/01/2020",
+    "description": "The Worcester City Run brings Worcester’s biggest 10K and Half Marathon to this scenic city. Paula Radcliffe, Jo Pavey and Tanni Grey-Thompson all know what a great atmosphere the race creates, join nearly 4000 runners on this autumn weekend perfectly placed to chase a PB or run for a good cause.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2526881/pexels-photo-2526881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "Try on the Tyne",
+    "startDate": "9:00 17/01/2020",
+    "description": "The majestic River Tyne and it’s historic bridges have witnessed many memorable events over the years and now they provide the stunning backdrop for the spectacular TRY ON THE TYNE. A Sprint and Standard Duathlon on the flat and fast banks of the River Tyne, combined with a 5km and 10km run for all abilities. Kids get to join in the fun too.",
+    "amount": 2250,
+    "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
+    "endPoint": " Siltakatu 11, 02770 Espoo",
+    "image_url": "https://images.pexels.com/photos/2526881/pexels-photo-2526881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   }
 ]
