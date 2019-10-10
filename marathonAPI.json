@@ -7,7 +7,7 @@
     "amount": 12250,
     "startPoint": "Siltakatu 11, 02770 Espoo",
     "endPoint": "Lummetie 4, 01300 Vantaa",
-    "image_url": "https://randomuser.me/api/portraits/men/25.jpg"
+    "image_url": "https://images.pexels.com/photos/2002209/pexels-photo-2002209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "amount": 1250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Mannerheiminkatu 18, 06100 Porvoo",
-    "image_url": "https://randomuser.me/api/portraits/men/75.jpg"
+    "image_url": "https://images.pexels.com/photos/34495/runner-race-competition-female.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
   },
   {
     "id": 2,
@@ -27,6 +27,6 @@
     "amount": 2250,
     "startPoint": "Urho Kekkosen katu 1, 00100 Helsinki",
     "endPoint": " Siltakatu 11, 02770 Espoo",
-    "image_url": "https://randomuser.me/api/portraits/men/65.jpg"
+    "image_url": "https://images.pexels.com/photos/1555351/pexels-photo-1555351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   }
 ]
